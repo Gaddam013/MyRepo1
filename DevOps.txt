@@ -14,7 +14,7 @@ Gaddam013@gmail.com
 Sricanada@206
 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
 
-Jenkins admon password
+Jenkins admin password
 3c2e7bd3a241442589295e205593b191
 /home/ubuntu/.jenkins/workspace/Test2
 
@@ -25,4 +25,5 @@ PRod: 172.31.5.246
 172-31-36-217
 172.31.12.141
 
-Git Session will be continued
+Git Session will be continued. GitHub Clone/fetch/pull completed
+
