@@ -1,0 +1,21 @@
+sricanada206@gmail.com
+Sricanada@206
+Canada Boy
+
+Drive:
+srigaddam013@gmail.com
+Devops@1308
+AWS:
+sricanada206@gmail.com
+Sricanada@206
+
+Jenkins admon password
+3c2e7bd3a241442589295e205593b191
+/home/ubuntu/.jenkins/workspace/Test2
+
+
+QA: 172.31.13.2
+PRod: 172.31.5.246
+
+172-31-36-217
+172.31.12.141
